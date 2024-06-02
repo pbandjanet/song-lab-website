@@ -1,5 +1,5 @@
 
-# pbandjanetDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Song lab website
 
 Visit **[pbandjanet.github.io/song-lab-website](https://pbandjanet.github.io/song-lab-website)** 🚀
 
