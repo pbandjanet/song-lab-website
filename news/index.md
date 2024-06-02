@@ -2,10 +2,9 @@
 title: Lab News
 nav:
   order: 4
-  tooltip: Lab News
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Lab News
+# Lab News
 
 The Song Lab will open in July 2025. Check back for lab news!
 

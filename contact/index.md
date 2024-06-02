@@ -2,10 +2,9 @@
 title: Contact
 nav:
   order: 6
-  tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+## Contact
 
 The Song lab will open in the [Department of Human Evolutionary Biology](https://heb.fas.harvard.edu/home) at Harvard University in July 2025. If you are interested in [joining the lab](joinus), please get in touch!
 
@@ -27,6 +26,7 @@ Cambridge, MA 02138 -->
 {%
   include figure.html
   image="images/heb_logo_website.jpeg"
+  width=70%
   caption="HEB"
 %}
 

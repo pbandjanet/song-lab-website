@@ -2,20 +2,20 @@
 title: Join Us!
 nav:
   order: 5
-  tooltip: Join Us!
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Join Us!
+# Join Us!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are actively recruiting at all levels, in advance of the lab opening in July 2025! We seek to establish a welcoming and inclusive lab environment and to help you to achieve your training and career goals.
 
-{% include section.html %}
+## Graduate students
+Prospective graduate students should apply to the [Harvard HEB PhD program](https://heb.fas.harvard.edu/graduate-program/applying-heb). Please [email Janet](mailto:janet.song@childrens.harvard.edu) to discuss further! 
 
-{% include search-box.html %}
+## Postdoctoral fellows
+Please [email Janet](mailto:janet.song@childrens.harvard.edu) with your CV, a short description of your research interests, and contact information for 3 references.
 
-{% include tags.html tags=site.tags %}
+## Research assistants and Staff scientists
+Please [email Janet](mailto:janet.song@childrens.harvard.edu) with your CV, a short description of your research interests and professional goals, and contact information for 3 references. 
 
-{% include search-info.html %}
-
-{% include list.html data="posts" component="post-excerpt" %}
+## Undergraduates
+Please [email Janet](mailto:janet.song@childrens.harvard.edu) with your CV and a short description of your research interests. 
