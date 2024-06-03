@@ -51,6 +51,7 @@
   date: '2023-10-13'
   link: https://doi.org/gsvxnr
   orcid: 0000-0002-7898-0227
+  janet-song: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2023.09.19.23295780
@@ -79,6 +80,7 @@
   date: '2023-09-22'
   link: https://doi.org/gtw9ff
   orcid: 0000-0002-7898-0227
+  janet-song: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1523/jneurosci.0710-22.2023
@@ -95,6 +97,7 @@
   date: '2023-02-23'
   link: https://doi.org/gtw9fg
   orcid: 0000-0002-7898-0227
+  janet-song: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1073/pnas.2209964120
@@ -343,6 +346,7 @@
   date: '2023-01-20'
   link: https://doi.org/gtw9fh
   orcid: 0000-0002-7898-0227
+  janet-song: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2022.09.19.508480
@@ -395,6 +399,7 @@
   date: '2022-09-19'
   link: https://doi.org/gsw86g
   orcid: 0000-0002-7898-0227
+  janet-song: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1073/pnas.2117557118
@@ -412,6 +417,7 @@
   date: '2021-12-17'
   link: https://doi.org/gnts4x
   orcid: 0000-0002-7898-0227
+  janet-song: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.celrep.2021.109843
@@ -429,6 +435,7 @@
   date: '2021-10-01'
   link: https://doi.org/gtw9fk
   orcid: 0000-0002-7898-0227
+  janet-song: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.neuron.2021.08.005
@@ -464,6 +471,7 @@
   date: '2021-10-01'
   link: https://doi.org/gtw7
   orcid: 0000-0002-7898-0227
+  janet-song: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/biolre/ioab068
@@ -487,6 +495,7 @@
   date: '2021-05-12'
   link: https://doi.org/gtw9fm
   orcid: 0000-0002-7898-0227
+  janet-song: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.ajhg.2018.07.011
@@ -500,6 +509,7 @@
   date: '2018-09-01'
   link: https://doi.org/gd9r73
   orcid: 0000-0002-7898-0227
+  janet-song: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.2147/ndt.s13405
@@ -511,6 +521,7 @@
   date: '2011-02-01'
   link: https://doi.org/bs636b
   orcid: 0000-0002-7898-0227
+  janet-song: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1196/annals.1448.019
@@ -528,6 +539,7 @@
   date: '2008-08-01'
   link: https://doi.org/fcbq43
   orcid: 0000-0002-7898-0227
+  janet-song: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
