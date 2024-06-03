@@ -1,10 +1,10 @@
 ---
-title: People
+title: Team
 nav:
   order: 3
 ---
 
-# People
+# Team
 
 {% include list.html component="card" data="people" filters="group: current" style="small" %}
 
