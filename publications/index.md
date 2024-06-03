@@ -6,11 +6,13 @@ nav:
 
 # Publications
 
-{% include section.html %}
+\*Equal contributions, ^Co-corresponding authors
+
+<!-- {% include section.html %}
 
 ## Selected Publications
 
-<!-- {% 
+{% 
   include citation.html 
   lookup="doi:10.1101/2023.09.19.23295780"
   style="rich" 
@@ -26,7 +28,7 @@ nav:
   include citation.html 
   lookup="doi:10.1001/jamaneurol.2023.2363"
   style="rich" 
-%} -->
+%}
 
 {% include section.html %}
 
@@ -34,6 +36,6 @@ nav:
 
 {% include search-box.html %}
 
-{% include search-info.html %}
+{% include search-info.html %} -->
 
-{% include list.html data="citations" component="citation" filters="janet-song: true" %}
+{% include list.html data="citations" component="citation" %}
