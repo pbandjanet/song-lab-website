@@ -1,9 +1,12 @@
 # site properties and page defaults
 title: SONG LAB
-subtitle: 
+subtitle: at Harvard University
 description: 
-header: images/background.jpg
-footer: images/background.jpg
+logo: images/logo.svg
+logo-text: true
+header: none
+header-dark: false
+footer: none
 proofer: false
 
 # # site social media and other links
