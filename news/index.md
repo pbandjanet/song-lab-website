@@ -1,12 +1,12 @@
 ---
-title: Lab News
+title: News
 nav:
   order: 4
 ---
 
-# Lab News
+# News
 
-The Song Lab will open in July 2025. Check back for lab news!
+The Song Lab will open in July 2025. Check back for more news!
 
 {% include section.html %}
 

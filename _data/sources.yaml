@@ -418,15 +418,15 @@
 #   date: '2021-05-12'
 #   link: https://doi.org/gtw9fm
 
-# - id: doi:10.1016/j.ajhg.2018.07.011
-#   title: Characterization of a human-specific tandem repeat associated with bipolar disorder and schizophrenia
-#   authors:
-#   - "Janet H.T. Song\*"
-#   - "Craig B. Lowe\*"
-#   - David M. Kingsley
-#   publisher: The American Journal of Human Genetics
-#   date: '2018-09-01'
-#   link: https://doi.org/gd9r73
+- id: doi:10.1016/j.ajhg.2018.07.011
+  title: Characterization of a human-specific tandem repeat associated with bipolar disorder and schizophrenia
+  authors:
+  - "Janet H.T. Song*"
+  - "Craig B. Lowe*"
+  - David M. Kingsley
+  publisher: The American Journal of Human Genetics
+  date: '2018-09-01'
+  link: https://doi.org/gd9r73
 
 - id: doi:10.2147/ndt.s13405
   title: 'Brain volumetric measures in alcoholics: A comparison of two segmentation
@@ -452,6 +452,10 @@
   publisher: Annals of the New York Academy of Sciences
   date: '2008-08-01'
   link: https://doi.org/fcbq43
+
+- id: doi:10.1101/2022.09.19.508480
+  remove: true
+
   
 
 # - id: doi:10.1371/journal.pcbi.1007128
