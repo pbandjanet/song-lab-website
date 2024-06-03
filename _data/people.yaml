@@ -2,7 +2,10 @@
   subtitle: Incoming Assistant Professor
   group: current
   image: images/people/janet_song.jpg
-  description: "[Google Scholar](https://scholar.google.com/citations?hl=en&user=PlpCiQsAAAAJ&view_op=list_works&sortby=pubdate)  [Email](mailto:janet.song@childrens.harvard.edu)"
+  description: "[Email](mailto:janet.song@childrens.harvard.edu) \| [Google Scholar](https://scholar.google.com/citations?hl=en&user=PlpCiQsAAAAJ&view_op=list_works&sortby=pubdate)"
+  links:
+    email: mailto:janet.song@childrens.harvard.edu
+    google-scholar: https://scholar.google.com/citations?hl=en&user=PlpCiQsAAAAJ&view_op=list_works&sortby=pubdate
   buttons:
     - type: google-scholar
       link: https://scholar.google.com/citations?hl=en&user=PlpCiQsAAAAJ&view_op=list_works&sortby=pubdate
