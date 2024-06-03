@@ -4,7 +4,9 @@ nav:
   order: 2
 ---
 
-## Publications
+# Publications
+
+{:.center}
 
 \*Equal contributions, ^Co-corresponding authors
 

@@ -5,7 +5,6 @@ description:
 logo: images/logo.svg
 logo-text: true
 header: none
-header-dark: false
 footer: none
 proofer: false
 
