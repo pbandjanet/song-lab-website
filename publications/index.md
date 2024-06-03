@@ -4,20 +4,33 @@ nav:
   order: 2
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Publications
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+# Publications
 
 {% include section.html %}
 
-## Highlighted
+## Selected Publications
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+<!-- {% 
+  include citation.html 
+  lookup="doi:10.1101/2023.09.19.23295780"
+  style="rich" 
+%}
+
+{% 
+  include citation.html 
+  lookup="doi:10.1126/science.ade9516"
+  style="rich" 
+%}
+
+{% 
+  include citation.html 
+  lookup="doi:10.1001/jamaneurol.2023.2363"
+  style="rich" 
+%} -->
 
 {% include section.html %}
 
-## All
+## All Publications
 
 {% include search-box.html %}
 
