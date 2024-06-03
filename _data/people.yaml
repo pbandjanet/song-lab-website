@@ -1,0 +1,30 @@
+- title: Janet Song
+  subtitle: Incoming Assistant Professor
+  group: current
+  image: images/people/janet_song.jpg
+  description: 
+  buttons:
+    - type: google-scholar
+      link: https://scholar.google.com/citations?hl=en&user=PlpCiQsAAAAJ&view_op=list_works&sortby=pubdate
+    - type: email
+      link: janet.song@childrens.harvard.edu
+
+- title: You?
+  subtitle: 
+  group: current
+  image: images/photo.jpg
+  description: 
+
+
+
+
+
+
+- title: Cool Web Server
+  subtitle: a subtitle
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/lab-website-template
+  tags:
+    - software
