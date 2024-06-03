@@ -1,10 +1,10 @@
 ---
-title: Join Us!
+title: Join Us
 nav:
   order: 5
 ---
 
-# Join Us!
+# Join Us
 
 We are actively recruiting at all levels, in advance of the lab opening in July 2025!
 

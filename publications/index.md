@@ -6,7 +6,7 @@ nav:
 
 # Publications
 
-\*Equal contributions, ^Co-corresponding authors
+<p align=center>\*Equal contributions, ^Co-corresponding authors<\p>
 
 {% include list.html data="citations" component="citation" %}
 
