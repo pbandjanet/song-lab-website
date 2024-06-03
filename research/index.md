@@ -4,23 +4,15 @@ nav:
   order: 1
 ---
 
-# Research
+# How did humans evolve?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The Song lab uses a genetics and genomics lens to understand how humans evolved. We apply a wide range of experimental and computational approaches from diverse fields, including: evolutionary biology, molecular biology, developmental biology, anthropology, functional genomics, comparative genomics, cell culture models, animal models, genome engineering, and machine learning. We focus on understanding how human-specific sequence changes result in neural specializations that ultimately impact cognition, social behavior, and motor control. 
 
-{% include tags.html tags="publication, resource, website" %}
+In particular, some of the questions we focus on include:
 
-{% include search-info.html %}
+#### 1. What genetic variants between humans and chimpanzees contribute to human-specific traits?
 
-{% include section.html %}
+#### 2. How do human-evolved genomic regions affect diseases of cognition and social behavior?
 
-## Featured
+#### 3. How does genetic variation in modern humans affect normal and disease trait variation?
 
-{% include list.html component="card" data="projects" filters="group: featured" %}
-
-{% include section.html %}
-
-## More
-
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
