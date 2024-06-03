@@ -2,18 +2,18 @@
   subtitle: Incoming Assistant Professor
   group: current
   image: images/people/janet_song.jpg
-  description: "[Google Scholar](https://scholar.google.com/citations?hl=en&user=PlpCiQsAAAAJ&view_op=list_works&sortby=pubdate) | [Email](mailto:janet.song@childrens.harvard.edu)"
+  description: "[Google Scholar](https://scholar.google.com/citations?hl=en&user=PlpCiQsAAAAJ&view_op=list_works&sortby=pubdate)  [Email](mailto:janet.song@childrens.harvard.edu)"
   buttons:
     - type: google-scholar
       link: https://scholar.google.com/citations?hl=en&user=PlpCiQsAAAAJ&view_op=list_works&sortby=pubdate
     - type: email
       link: janet.song@childrens.harvard.edu
 
-- title: You!
+- title: You
   subtitle: 
   group: current
   image: images/people/you.jpg
-  description: "[Join us!](joinus)"
+  description: "[Join us!](../joinus)"
 
 
 
