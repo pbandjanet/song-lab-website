@@ -4,7 +4,7 @@ nav:
   order: 4
 ---
 
-# News
+## News
 
 The Song Lab will open in July 2025. Check back for more news!
 
