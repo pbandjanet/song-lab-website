@@ -6,7 +6,7 @@ nav:
 
 # Join Us!
 
-We are actively recruiting at all levels, in advance of the lab opening in July 2025! We seek to establish a welcoming and inclusive lab environment and to help you to achieve your training and career goals.
+We are a welcoming and inclusive lab environment and are actively recruiting at all levels, in advance of the lab opening in July 2025!
 
 ## Graduate students
 Prospective graduate students should apply to the [Harvard HEB PhD program](https://heb.fas.harvard.edu/graduate-program/applying-heb). Please [email Janet](mailto:janet.song@childrens.harvard.edu) to discuss further! 
