@@ -8,7 +8,7 @@ nav:
 
 The Song lab applies a genetics and genomics lens to understand how humans evolved. In particular, we study how human-specific sequence changes result in neural specializations that ultimately impact cognition, social behavior, and motor control. 
 
-To address the following themes, we use a wide range of experimental and computational approaches from diverse fields, including evolutionary biology, molecular biology, neuroscience, developmental biology, anthropology, and computer science.
+To address the following themes, we integrate a wide range of experimental and computational approaches from diverse fields, including evolutionary biology, molecular biology, neuroscience, developmental biology, anthropology, and computer science.
 
 #### What genetic variants contribute to human-specific traits?
 There are millions of variants between humans and chimpanzees. We use comparative methods to identify which of these changes might be functional, screen candidates using high-throughput functional genomics approaches, and then study individual candidates in primate cells and in mouse models. 
