@@ -23,5 +23,5 @@ Cambridge, MA 02138 -->
 {%
   include figure.html
   image="images/heb_logo_website.jpeg"
-  width="60%"
+  width="350px"
 %}
