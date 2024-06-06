@@ -52,7 +52,7 @@ header a {
 .subtitle {
   opacity: 0.65;
   font-weight: var(--thin);
-  font-size: 1.25rem;
+  font-size: 1.2rem;
 }
 
 .nav-toggle {
@@ -90,7 +90,7 @@ nav {
   gap: 15px;
   font-family: var(--heading);
   text-transform: uppercase;
-  font-size: 1.25rem;
+  font-size: 1.2rem;
 }
 
 nav > a {
