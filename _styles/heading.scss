@@ -49,7 +49,11 @@ h5 {
 }
 
 h6 {
-  font-size: 1rem;
+  margin: 20px 0 20px 0;
+  font-weight: var(--regular);
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 3rem;
 }
 
 :where(h1, h2, h3, h4, h5, h6) > .icon {

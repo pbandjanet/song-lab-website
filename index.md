@@ -1,12 +1,13 @@
 ---
 ---
 
-# Genetic basis of human evolution
+###### Genetic basis of human evolution
 
 <!-- Placeholder, will replace with review figure -->
 {%
   include figure.html
   image="images/brain_tree-01.png"
+  caption="Adapted from DeFelipe, *Front Neuroanat* 2011"
 %}
 
 There are millions of sequence variants between humans and chimpanzees. The Song lab aims to identify and characterize the variants that contributed to human-specific traits, with a particular focus on the evolution of the human brain. We are also interested in how human-specific changes to the brain impact neurodevelopmental and neuropsychiatric diseases in modern humans. [Learn more.](research)
