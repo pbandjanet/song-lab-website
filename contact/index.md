@@ -7,7 +7,9 @@ nav:
 # Contact
 
 {:.center}
-The Song lab will open in the [Department of Human Evolutionary Biology](https://heb.fas.harvard.edu/home) at Harvard University in July 2025. If you are interested in [joining the lab](../joinus), please get in touch!
+The Song lab will open in the [Department of Human Evolutionary Biology](https://heb.fas.harvard.edu/home) at Harvard University in July 2025.
+
+If you are interested in [joining the lab](../joinus), please get in touch!
 
 {%
   include button.html
