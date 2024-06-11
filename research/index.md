@@ -20,7 +20,7 @@ There are millions of variants between humans and chimpanzees. We use comparativ
 
 Research by us and others suggests that genomic regions with signatures of selection in humans may be preferentially implicated in diseases that affect human-evolved traits like cognition and social behavior. We are interested in further exploring this connection and applying what we learn about human neural specializations to relevant diseases like autism spectrum disorder and schizophrenia. {% endcapture %}
 
-{% include feature.html image="images/research/research_page_figures-02.png" title="How does human evolution affect human disease?" text=text %}
+{% include feature.html image="images/research/research_page_figures-02.png" title="How does human evolution affect human disease?" text=text aspect-ratio="3/1.75" %}
 
 {% capture text %}
 
