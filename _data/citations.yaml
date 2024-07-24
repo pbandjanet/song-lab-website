@@ -1,5 +1,34 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.xgen.2024.100609
+  title: Rare variation in non-coding regions with evolutionary signatures contributes
+    to autism spectrum disorder risk
+  authors:
+  - Taehwan Shin
+  - Janet H.T. Song
+  - Michael Kosicki
+  - Connor Kenny
+  - Samantha G. Beck
+  - Lily Kelley
+  - Irene Antony
+  - Xuyu Qian
+  - Julieta Bonacina
+  - Frances Papandile
+  - Dilenny Gonzalez
+  - Julia Scotellaro
+  - Evan M. Bushinsky
+  - Rebecca E. Andersen
+  - Eduardo Maury
+  - Len A. Pennacchio
+  - Ryan N. Doan
+  - Christopher A. Walsh
+  publisher: Cell Genomics
+  date: '2024-07-01'
+  link: https://doi.org/gt4w44
+  orcid: 0000-0002-7898-0227
+  janet-song: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1126/science.ade9516
   title: Comparative transcriptomics reveals human-specific cortical features
   authors:
