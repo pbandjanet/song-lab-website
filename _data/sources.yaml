@@ -1,3 +1,29 @@
+- id: doi:10.1016/j.xgen.2024.100609
+  title: Rare variation in non-coding regions with evolutionary signatures contributes
+    to autism spectrum disorder risk
+  authors:
+  - "Taehwan Shin\\\x2A"
+  - "Janet H.T. Song\\\x2A"
+  - Michael Kosicki
+  - Connor Kenny
+  - Samantha G. Beck
+  - Lily Kelley
+  - Irene Antony
+  - Xuyu Qian
+  - Julieta Bonacina
+  - Frances Papandile
+  - Dilenny Gonzalez
+  - Julia Scotellaro
+  - Evan M. Bushinsky
+  - Rebecca E. Andersen
+  - Eduardo Maury
+  - Len A. Pennacchio
+  - "Ryan N. Doan^"
+  - "Christopher A. Walsh^"
+  publisher: Cell Genomics
+  date: '2024-07-01'
+  link: https://doi.org/gt4w44
+
 - id: doi:10.1126/science.ade9516
   title: Comparative transcriptomics reveals human-specific cortical features
   authors:
@@ -48,32 +74,6 @@
   publisher: Science
   date: '2023-10-13'
   link: https://doi.org/gsvxnr
-
-- id: doi:10.1101/2023.09.19.23295780
-  title: Rare variation in noncoding regions with evolutionary signatures contributes
-    to autism spectrum disorder risk
-  authors:
-  - "Taehwan Shin\\\x2A"
-  - "Janet H.T. Song\\\x2A"
-  - Michael Kosicki
-  - Connor Kenny
-  - Samantha G. Beck
-  - Lily Kelley
-  - Xuyu Qian
-  - Julieta Bonacina
-  - Frances Papandile
-  - Irene Antony
-  - Dilenny Gonzalez
-  - Julia Scotellaro
-  - Evan M. Bushinsky
-  - Rebecca E. Andersen
-  - Eduardo Maury
-  - Len A. Pennacchio
-  - "Ryan N. Doan^"
-  - "Christopher A. Walsh^"
-  publisher: bioRxiv
-  date: '2023-09-22'
-  link: https://doi.org/gtw9ff
 
 - id: doi:10.1523/jneurosci.0710-22.2023
   title: Cbln1 directs axon targeting by corticospinal neurons specifically toward
@@ -255,4 +255,5 @@
 - id: doi:10.1101/2022.09.19.508480
   remove: true
 
-
+- id: doi:10.1101/2023.09.19.23295780
+  remove: true
