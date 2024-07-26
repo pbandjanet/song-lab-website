@@ -1,7 +1,7 @@
 ---
 ---
 
-###### the genetic basis of human evolution
+###### genetics of human evolution
 
 <!-- Placeholder, will replace with review figure -->
 {%
