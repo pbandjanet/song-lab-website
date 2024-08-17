@@ -16,7 +16,7 @@ If you are interested in [joining the lab](../joinus), please get in touch!
   include button.html
   type="email"
   text="Email Janet"
-  link="janet.song@childrens.harvard.edu"
+  link="janetsong@fas.harvard.edu"
 %}
 
 <!-- Peabody Museum
