@@ -1,5 +1,27 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2025.01.20.634000
+  title: Autism-Associated Genes and Neighboring lncRNAs Converge on Key Gene Regulatory
+    Networks
+  authors:
+  - Rebecca Andersen
+  - Maya Talukdar
+  - Tyler Sakamoto
+  - Janet HT Song
+  - Xuyu Qian
+  - Seungil Lee
+  - Ryan N Delgado
+  - Sijing Zhao
+  - Gwenyth Eichfeld
+  - Julia Harms
+  - Christopher A Walsh
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-01-22'
+  link: https://doi.org/g82vdm
+  orcid: 0000-0002-7898-0227
+  janet-song: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.xgen.2024.100609
   title: Rare variation in non-coding regions with evolutionary signatures contributes
     to autism spectrum disorder risk
