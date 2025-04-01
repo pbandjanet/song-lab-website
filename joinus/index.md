@@ -20,4 +20,4 @@ Please [email Janet](mailto:janetsong@fas.harvard.edu) with your CV, a short des
 Please [email Janet](mailto:janetsong@fas.harvard.edu) with your CV, a short description of your research interests and professional goals, and contact information for 3 references. 
 
 #### Undergraduates
-Please [email Janet](mailto:janetsong@fas.harvard.edu) with your CV and a short description of your research interests. 
+Please [email Janet](mailto:janetsong@fas.harvard.edu) with your CV and a short description of your research interests.
