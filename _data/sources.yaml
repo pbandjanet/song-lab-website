@@ -1,3 +1,41 @@
+- id: doi:10.1101/2025.03.31.646366
+  title: FOS binding sites are a hub for the evolution of activity-dependent gene
+    regulatory programs in human neurons
+  authors:
+  - "Ava C. Carter\\\x2A"
+  - "Gabriel T. Koreman\\\x2A"
+  - Jillian E. Petrocelli
+  - Josephine E. Robb
+  - Evan M. Bushinsky
+  - Sara K. Trowbridge
+  - David M. Kingsley
+  - "Christopher A. Walsh^"
+  - "Janet H.T. Song^"
+  - "Michael E. Greenberg^"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-04-01'
+  link: https://doi.org/g9bg9k
+
+
+- id: doi:10.1101/2025.03.31.646367
+  title: Human-chimpanzee tetraploid system defines mechanisms of species-specific
+    neural gene regulation
+  authors:
+  - "Janet HT Song\\\x2A^"
+  - "Ava C Carter\\\x2A"
+  - Evan M Bushinsky
+  - Samantha G Beck
+  - Jillian E Petrocelli
+  - Gabriel T Koreman
+  - Juliana Babu
+  - David M Kingsley
+  - "Michael E Greenberg^"
+  - "Christopher A Walsh^"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-03-31'
+  link: https://doi.org/g9bg9m
+
+
 - id: doi:10.1016/j.xgen.2024.100609
   title: Rare variation in non-coding regions with evolutionary signatures contributes
     to autism spectrum disorder risk
