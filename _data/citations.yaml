@@ -14,7 +14,7 @@
   - Christopher A. Walsh^
   - Janet H.T. Song^
   - Michael E. Greenberg^
-  publisher: Cold Spring Harbor Laboratory
+  publisher: bioRxiv
   date: '2025-04-01'
   link: https://doi.org/g9bg9k
   orcid: 0000-0002-7898-0227
@@ -35,7 +35,7 @@
   - David M Kingsley
   - Michael E Greenberg^
   - Christopher A Walsh^
-  publisher: Cold Spring Harbor Laboratory
+  publisher: bioRxiv
   date: '2025-03-31'
   link: https://doi.org/g9bg9m
   orcid: 0000-0002-7898-0227
@@ -57,13 +57,13 @@
   - Gwenyth Eichfeld
   - Julia Harms
   - Christopher A Walsh
-  publisher: Cold Spring Harbor Laboratory
+  publisher: bioRxiv
   date: '2025-01-22'
   link: https://doi.org/g82vdm
   orcid: 0000-0002-7898-0227
   janet-song: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.xgen.2024.100609
   title: Rare variation in non-coding regions with evolutionary signatures contributes
     to autism spectrum disorder risk
