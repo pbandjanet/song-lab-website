@@ -93,60 +93,148 @@
   janet-song: true
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1126/science.ade9516
-  title: Comparative transcriptomics reveals human-specific cortical features
+- id: doi:10.1001/jamaneurol.2023.2363
+  title: Exome Sequencing and the Identification of New Genes and Shared Mechanisms
+    in Polymicrogyria
   authors:
-  - Nikolas L. Jorstad\*
-  - Janet H.T. Song\*
-  - David Exposito-Alonso\*
-  - Hamsini Suresh
-  - Nathan Castro-Pacheco
-  - Fenna M. Krienen
-  - Anna Marie Yanny
-  - Jennie Close
-  - Emily Gelfand
-  - Brian Long
-  - Stephanie C. Seeman
-  - Kyle J. Travaglini
-  - Soumyadeep Basu
-  - Marc Beaudin
-  - Darren Bertagnolli
-  - Megan Crow
-  - Song-Lin Ding
-  - Jeroen Eggermont
-  - Alexandra Glandon
-  - Jeff Goldy
-  - Katelyn Kiick
-  - Thomas Kroes
-  - Delissa McMillen
-  - Trangthanh Pham
-  - Christine Rimorin
-  - Kimberly Siletti
-  - Saroja Somasundaram
-  - Michael Tieu
-  - Amy Torkelson
-  - Guoping Feng
-  - William D. Hopkins
-  - "Thomas H\xF6llt"
-  - C. Dirk Keene
-  - Sten Linnarsson
-  - Steven A. McCarroll
-  - Boudewijn P. Lelieveldt
-  - Chet C. Sherwood
-  - Kimberly Smith
+  - Shyam K. Akula
+  - Allen Y. Chen
+  - Jennifer E. Neil
+  - Diane D. Shao
+  - Alisa Mo
+  - Norma K. Hylton
+  - Stephanie DiTroia
+  - Vijay S. Ganesh
+  - Richard S. Smith
+  - "Katherine O\u2019Kane"
+  - Rebecca C. Yeh
+  - Jack H. Marciano
+  - Samantha Kirkham
+  - Connor J. Kenny
+  - Janet H. T. Song
+  - Muna Al Saffar
+  - Francisca Millan
+  - David J. Harris
+  - Andrea V. Murphy
+  - Kara C. Klemp
+  - Stephen R. Braddock
+  - Harrison Brand
+  - Isaac Wong
+  - Michael E. Talkowski
+  - "Anne O\u2019Donnell-Luria"
+  - Abbe Lai
+  - Robert Sean Hill
+  - Ganeshwaran H. Mochida
+  - Ryan N. Doan
+  - A. James Barkovich
+  - Edward Yang
+  - Dina Amrom
+  - Eva Andermann
+  - Annapurna Poduri
   - Christopher A. Walsh
-  - Alexander Dobin
-  - Jesse Gillis
-  - Ed S. Lein
-  - Rebecca D. Hodge^
-  - Trygve E. Bakken^
-  publisher: Science
-  date: '2023-10-13'
-  link: https://doi.org/gsvxnr
+  - Bassam Abu-Libdeh
+  - Lihadh Al-Gazali
+  - Muna Al Saffar
+  - Edith Alva Moncayo
+  - Dina Amrom
+  - Eva Anderman
+  - Anna-Kaisa Anttonen
+  - Saunder Barnes
+  - Sara Barnett
+  - Todd Barron
+  - Brenda J. Barry
+  - Lina Basel-Vanagaite
+  - Laila Bastaki
+  - Luis Bello-Espinosa
+  - Tawfeg Ben-Omran
+  - Matthew Bernard
+  - Carsten G. Bonneman
+  - Blaise Bourgeois
+  - Stephen Brown
+  - Roberto H. Caraballo
+  - Gergory Cascino
+  - Michael Clarke
+  - Monika Cohen
+  - Yanick Crow
+  - Bernard Dan
+  - Kira A. Dies
+  - William B. Dobyns
+  - "Fran\xE7ois Dubeau"
+  - Christelle El Achkar
+  - Gregory M. Enns
+  - Laurence Faivre
+  - Laura Flores-Sarnat
+  - John Gaitanis
+  - Kuchukhidze Giorgi
+  - Andrew Green
+  - Alan Guberman
+  - Renzo Guerrini
+  - Micheil Innes
+  - Richard Jacobsen
+  - Sebastian Jacquemont
+  - Samir Khalil
+  - Joerg Klepper
+  - Dimitri Kranic
+  - Kalpathy Krishnamoorthy
+  - Anna-Elina Lehesjoki
+  - Dorit Lev
+  - Richard J. Leventer
+  - Emily Lisi
+  - Valerie Loik Ramey
+  - Sally Ann Lynch
+  - Laila Mahmoud
+  - David Manchester
+  - David Mandelbaum
+  - Daphna Marom
+  - Deborah Marsden
+  - Mayra Martinez Ojeda
+  - Amira Masri
+  - Livija Medne
+  - Denis Melanson
+  - David T. Miller
+  - Anna Minster
+  - Edward Neilan
+  - Dang Khoa Nguyen
+  - Heather E. Olson
+  - Ignacio Pascual-Castroviejo
+  - Philip L. Pearl
+  - Daniela Pilz
+  - Nada Quercia
+  - Salmo Raskin
+  - Miriam Regev
+  - Lance Rodan
+  - Cynthia Rooney
+  - Michael Rutlin
+  - Mustafa Sahin
+  - Mustafa A. Salih
+  - Pierre Sarda
+  - Harvey B. Sarnat
+  - Ingrid Scheffer
+  - Joseph Shieh
+  - Sharon E. Smith
+  - Janet S. Soul
+  - Siddharth Srivastava
+  - Laszlo Sztriha
+  - Donatella Tampieri
+  - John Tolmie
+  - "Meral Top\xE7u"
+  - Eugen Trinka
+  - John Tsai
+  - Jack Tsao
+  - Sheila Unger
+  - Iris Unterberger
+  - Goekhan Uyanik
+  - Kette Valente
+  - Thomas Voit
+  - Louise Wilson
+  - Grace Yoon
+  publisher: JAMA Neurology
+  date: '2023-09-01'
+  link: https://doi.org/gsmgsw
   orcid: 0000-0002-7898-0227
   janet-song: true
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1523/jneurosci.0710-22.2023
   title: Cbln1 directs axon targeting by corticospinal neurons specifically toward
     thoraco-lumbar spinal cord
@@ -351,5 +439,57 @@
   link: https://doi.org/fcbq43
   orcid: 0000-0002-7898-0227
   janet-song: true
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1126/science.ade9516
+  title: Comparative transcriptomics reveals human-specific cortical features
+  authors:
+  - Nikolas L. Jorstad\*
+  - Janet H.T. Song\*
+  - David Exposito-Alonso\*
+  - Hamsini Suresh
+  - Nathan Castro-Pacheco
+  - Fenna M. Krienen
+  - Anna Marie Yanny
+  - Jennie Close
+  - Emily Gelfand
+  - Brian Long
+  - Stephanie C. Seeman
+  - Kyle J. Travaglini
+  - Soumyadeep Basu
+  - Marc Beaudin
+  - Darren Bertagnolli
+  - Megan Crow
+  - Song-Lin Ding
+  - Jeroen Eggermont
+  - Alexandra Glandon
+  - Jeff Goldy
+  - Katelyn Kiick
+  - Thomas Kroes
+  - Delissa McMillen
+  - Trangthanh Pham
+  - Christine Rimorin
+  - Kimberly Siletti
+  - Saroja Somasundaram
+  - Michael Tieu
+  - Amy Torkelson
+  - Guoping Feng
+  - William D. Hopkins
+  - "Thomas H\xF6llt"
+  - C. Dirk Keene
+  - Sten Linnarsson
+  - Steven A. McCarroll
+  - Boudewijn P. Lelieveldt
+  - Chet C. Sherwood
+  - Kimberly Smith
+  - Christopher A. Walsh
+  - Alexander Dobin
+  - Jesse Gillis
+  - Ed S. Lein
+  - Rebecca D. Hodge^
+  - Trygve E. Bakken^
+  publisher: Science
+  date: '2023-10-13'
+  link: https://doi.org/gsvxnr
   plugin: sources.py
   file: sources.yaml
