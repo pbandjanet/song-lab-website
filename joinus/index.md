@@ -19,5 +19,7 @@ Please [email Janet](mailto:janetsong@fas.harvard.edu) with your CV, a short des
 #### Research assistants and Staff scientists
 Candidates should apply directly via Harvard Careers. If there are open positions, they will be listed below. 
 
+[Research Assistant](https://bit.ly/68146BR)
+
 #### Undergraduates
 Please [email Janet](mailto:janetsong@fas.harvard.edu) with your CV and a short description of your research interests.
