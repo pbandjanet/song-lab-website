@@ -8,6 +8,6 @@ nav:
 
 {:.center}
 
-The Song Lab opened in July 2025. Check back for more news!
+The Song Lab opened in July 2025. Check back later for more news!
 
 <!-- {% include list.html data="posts" component="post-excerpt" %} -->

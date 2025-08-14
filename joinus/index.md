@@ -6,8 +6,6 @@ nav:
 
 # Join Us
 
-{:.center}
-
 #### Graduate students
 Prospective graduate students should apply to the [Harvard HEB PhD program](https://heb.fas.harvard.edu/graduate-program/applying-heb). Please [email Janet](mailto:janetsong@fas.harvard.edu) to discuss further!
 
