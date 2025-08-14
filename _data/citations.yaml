@@ -93,6 +93,60 @@
   janet-song: true
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1126/science.ade9516
+  title: Comparative transcriptomics reveals human-specific cortical features
+  authors:
+  - Nikolas L. Jorstad\*
+  - Janet H.T. Song\*
+  - David Exposito-Alonso\*
+  - Hamsini Suresh
+  - Nathan Castro-Pacheco
+  - Fenna M. Krienen
+  - Anna Marie Yanny
+  - Jennie Close
+  - Emily Gelfand
+  - Brian Long
+  - Stephanie C. Seeman
+  - Kyle J. Travaglini
+  - Soumyadeep Basu
+  - Marc Beaudin
+  - Darren Bertagnolli
+  - Megan Crow
+  - Song-Lin Ding
+  - Jeroen Eggermont
+  - Alexandra Glandon
+  - Jeff Goldy
+  - Katelyn Kiick
+  - Thomas Kroes
+  - Delissa McMillen
+  - Trangthanh Pham
+  - Christine Rimorin
+  - Kimberly Siletti
+  - Saroja Somasundaram
+  - Michael Tieu
+  - Amy Torkelson
+  - Guoping Feng
+  - William D. Hopkins
+  - "Thomas H\xF6llt"
+  - C. Dirk Keene
+  - Sten Linnarsson
+  - Steven A. McCarroll
+  - Boudewijn P. Lelieveldt
+  - Chet C. Sherwood
+  - Kimberly Smith
+  - Christopher A. Walsh
+  - Alexander Dobin
+  - Jesse Gillis
+  - Ed S. Lein
+  - Rebecca D. Hodge^
+  - Trygve E. Bakken^
+  publisher: Science
+  date: '2023-10-13'
+  link: https://doi.org/gsvxnr
+  orcid: 0000-0002-7898-0227
+  janet-song: true
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1001/jamaneurol.2023.2363
   title: Exome Sequencing and the Identification of New Genes and Shared Mechanisms
     in Polymicrogyria
@@ -439,57 +493,5 @@
   link: https://doi.org/fcbq43
   orcid: 0000-0002-7898-0227
   janet-song: true
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1126/science.ade9516
-  title: Comparative transcriptomics reveals human-specific cortical features
-  authors:
-  - Nikolas L. Jorstad\*
-  - Janet H.T. Song\*
-  - David Exposito-Alonso\*
-  - Hamsini Suresh
-  - Nathan Castro-Pacheco
-  - Fenna M. Krienen
-  - Anna Marie Yanny
-  - Jennie Close
-  - Emily Gelfand
-  - Brian Long
-  - Stephanie C. Seeman
-  - Kyle J. Travaglini
-  - Soumyadeep Basu
-  - Marc Beaudin
-  - Darren Bertagnolli
-  - Megan Crow
-  - Song-Lin Ding
-  - Jeroen Eggermont
-  - Alexandra Glandon
-  - Jeff Goldy
-  - Katelyn Kiick
-  - Thomas Kroes
-  - Delissa McMillen
-  - Trangthanh Pham
-  - Christine Rimorin
-  - Kimberly Siletti
-  - Saroja Somasundaram
-  - Michael Tieu
-  - Amy Torkelson
-  - Guoping Feng
-  - William D. Hopkins
-  - "Thomas H\xF6llt"
-  - C. Dirk Keene
-  - Sten Linnarsson
-  - Steven A. McCarroll
-  - Boudewijn P. Lelieveldt
-  - Chet C. Sherwood
-  - Kimberly Smith
-  - Christopher A. Walsh
-  - Alexander Dobin
-  - Jesse Gillis
-  - Ed S. Lein
-  - Rebecca D. Hodge^
-  - Trygve E. Bakken^
-  publisher: Science
-  date: '2023-10-13'
-  link: https://doi.org/gsvxnr
   plugin: sources.py
   file: sources.yaml
