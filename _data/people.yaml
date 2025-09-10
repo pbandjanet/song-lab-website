@@ -10,6 +10,24 @@
   image: images/people/TracyCui.jpg
   description: "[Email](mailto:tcui@fas.harvard.edu)"
 
+- title: Dimitar Ivanov
+  subtitle: PhD student
+  group: current
+  image: images/people/DimitarIvanov.jpg
+  description: "[Email](mailto:divanov@g.harvard.edu)"
+
+- title: Katie Rickelton
+  subtitle: Postdoc
+  group: current
+  image: images/people/you.jpg
+  description: "[Email](mailto:krickelton@g.harvard.edu)"
+
+- title: Tom Zeerow
+  subtitle: Undergraduate
+  group: current
+  image: images/people/you.jpg
+  description: "[Email](mailto:tomzeerow@college.harvard.edu)"
+
 - title: Vivien Zhao
   subtitle: Master's student
   group: current
@@ -17,8 +35,8 @@
   description: "[Email](mailto:vivienzhao@brandeis.edu)"
 
 - title: Melody Xu
-  subtitle: Undergraduate
-  group: current
+  subtitle: Undergraduate (2025)
+  group: alumni
   image: images/people/MelodyXu.jpeg
   description: "[Email](mailto:zihanxu@fas.harvard.edu)"
 
