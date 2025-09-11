@@ -3,7 +3,7 @@
   group: current
   image: images/people/janet_song.jpg
   description: "[Email](mailto:janetsong@fas.harvard.edu) \\\x7C [Google Scholar](https://scholar.google.com/citations?hl=en&user=PlpCiQsAAAAJ&view_op=list_works&sortby=pubdate)"
- 
+
 - title: Tracy Cui
   subtitle: Research Assistant
   group: current
@@ -13,19 +13,19 @@
 - title: Dimitar Ivanov
   subtitle: PhD student
   group: current
-  image: images/people/DimitarIvanov.jpg
+  image: images/people/DimitarIvanov.JPG
   description: "[Email](mailto:divanov@g.harvard.edu)"
 
 - title: Katie Rickelton
   subtitle: Postdoc
   group: current
-  image: images/people/you.jpg
+  image: 
   description: "[Email](mailto:krickelton@g.harvard.edu)"
 
 - title: Tom Zeerow
   subtitle: Undergraduate
   group: current
-  image: images/people/you.jpg
+  image: 
   description: "[Email](mailto:tomzeerow@college.harvard.edu)"
 
 - title: Vivien Zhao
