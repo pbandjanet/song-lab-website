@@ -1,3 +1,22 @@
+- id: doi:10.1101/2025.09.15.676436
+  title: Human-specific tandem repeat in <i>CACNA1C</i> modulates responses to neuronal
+    stimulation
+  authors:
+  - "Janet H.T. Song\\\x2A"
+  - "Fikri Birey\\\x2A"
+  - "Tzu-Chiao Hung\\\x2A"
+  - Nicola A.L. Hall
+  - Catherine A. Guenther
+  - Xiaoyu Chen
+  - Ibrahim F. Alkuraya
+  - Elizabeth M. Tunbridge
+  - Wilfried Haerty
+  - Sergiu P. Pasca
+  - David M. Kingsley
+  publisher: bioRxiv
+  date: '2025-09-16'
+  link: https://doi.org/g94hkq
+
 - id: doi:10.1101/2025.08.20.671362
   title: Pretraining Improves Prediction of Genomic Datasets Across Species
   authors:
