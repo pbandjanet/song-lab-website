@@ -48,4 +48,9 @@
   font-style: italic;
 }
 
+.card-text p {
+  text-align: center;
+  width: 100%;
+}
+
 /*# sourceMappingURL=card.css.map */
