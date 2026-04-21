@@ -1,3 +1,14 @@
+- id: doi:10.1038/s41593-026-02277-1
+  title: Genomic approaches for understanding the evolution of the human brain
+  authors:
+  - "Janet H. T. Song^"
+  - Michael E. Greenberg
+  - David Reich
+  - "Christopher A. Walsh^"
+  publisher: Nature Neuroscience
+  date: '2026-04-21'
+  link: https://doi.org/hbx269
+
 - id: doi:10.1101/2025.09.15.676436
   title: Human-specific tandem repeat in <i>CACNA1C</i> modulates responses to neuronal
     stimulation
