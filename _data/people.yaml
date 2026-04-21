@@ -34,17 +34,18 @@
   image: images/people/TomZeerow.jpg
   description: "[Email](mailto:tomzeerow@college.harvard.edu)"
 
-- title: Vivien Zhao
-  subtitle: Master's student
-  group: current
-  image: images/people/Vivien_Zhao.jpg
-  description: "[Email](mailto:vivienzhao@brandeis.edu)"
-
 - title: Melody Xu
   subtitle: Undergraduate (2025)
   group: alumni
   image: images/people/MelodyXu.jpeg
   description: "[Email](mailto:zx2483@barnard.edu)"
+
+- title: Vivien Zhao
+  subtitle: Master's student (2025-2026)
+  group: alumni
+  image: images/people/Vivien_Zhao.jpg
+  description: "[Email](mailto:vivienzhao@brandeis.edu)"
+
 
 - title: You
   subtitle: 
