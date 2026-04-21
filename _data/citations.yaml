@@ -1,5 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41593-026-02277-1
+  title: Genomic approaches for understanding the evolution of the human brain
+  authors:
+  - Janet H. T. Song
+  - Michael E. Greenberg
+  - David Reich
+  - Christopher A. Walsh
+  publisher: Nature Neuroscience
+  date: '2026-04-21'
+  link: https://doi.org/hbx269
+  orcid: 0000-0002-7898-0227
+  janet-song: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/bioinformatics/btag139
   title: Pretraining Improves Prediction of Genomic Datasets Across Species
   authors:
