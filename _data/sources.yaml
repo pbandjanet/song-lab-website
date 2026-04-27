@@ -1,7 +1,19 @@
+- id: doi:10.64898/2026.04.23.720446
+  title: Linked origins but distinct roles for extreme length and sequence variation
+    at a tandem repeat in <i>CACNA1C</i>
+  authors:
+  - "Janet H.T. Song^"
+  - Vivien Zhao
+  - Rachel L. Grant
+  - "David M. Kingsley^"
+  publisher: bioRxiv
+  date: '2026-04-23'
+  link: https://doi.org/hbzmd3
+
 - id: doi:10.1038/s41593-026-02277-1
   title: Genomic approaches for understanding the evolution of the human brain
   authors:
-  - "Janet H. T. Song^"
+  - "Janet H.T. Song^"
   - Michael E. Greenberg
   - David Reich
   - "Christopher A. Walsh^"
