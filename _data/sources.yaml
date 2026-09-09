@@ -1,3 +1,22 @@
+- id: doi:10.64898/2026.08.24.746818
+  title: "Sequence-to-function deep learning decodes human <i>cis</i>-regulatory evolution"
+  authors:
+  - "Riley J. Mangan^"
+  - Nikitha Thoduguli
+  - Dimitar Ivanov
+  - Bessie Li
+  - Krish Vasudev
+  - Tom Zeerow
+  - Jayashabari Shankar
+  - Yuru Lin
+  - Zunpeng Liu
+  - Martin Wohlwend
+  - "Janet H.T. Song^"
+  - "Manolis Kellis^"
+  publisher: bioRxiv
+  date: '2026-08-27'
+  link: https://doi.org/hch5z8
+
 - id: doi:10.64898/2026.04.23.720446
   title: Linked origins but distinct roles for extreme length and sequence variation
     at a tandem repeat in <i>CACNA1C</i>
