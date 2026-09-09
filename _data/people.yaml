@@ -1,44 +1,56 @@
 - title: Janet Song
-  subtitle: Assistant Professor
+  subtitle: Assistant Professor (2025 - )
   group: current
   image: images/people/janet_song.jpg
   description: "[Email](mailto:janetsong@fas.harvard.edu) \\\x7C [Google Scholar](https://scholar.google.com/citations?hl=en&user=PlpCiQsAAAAJ&view_op=list_works&sortby=pubdate)"
 
 - title: Tracy Cui
-  subtitle: Research Assistant
+  subtitle: Research Assistant (2025 - )
   group: current
   image: images/people/TracyCui.jpg
   description: "[Email](mailto:tcui@fas.harvard.edu)"
 
 - title: Dimitar Ivanov
-  subtitle: PhD student
+  subtitle: PhD student (2025 - )
   group: current
   image: images/people/DimitarIvanov.JPG
   description: "[Email](mailto:divanov@g.harvard.edu)"
 
+- title: Vicki Lin
+  subtitle: Undergraduate (2026 - )
+  group: current
+  image: images/people/VickiLin.jpg
+  description: "[Email](mailto:vickilin@college.harvard.edu)"
+
 - title: Katie Rickelton
-  subtitle: Postdoc
+  subtitle: Postdoc (2025 - )
   group: current
   image: images/people/Katie_Rickelton.JPEG
   description: "[Email](mailto:krickelton@g.harvard.edu) \\\x7C [Google Scholar](https://scholar.google.com/citations?hl=en&user=Y8TJf18AAAAJ)"
 
 - title: Suvimal Kumar Sindhu
-  subtitle: Postdoc
+  subtitle: Postdoc (2026 - )
   group: current
   image: images/people/SuvimalSindhu.jpg
   description: "[Email](mailto:suvimalkumar_sindhu@fas.harvard.edu) \\\x7C [Google Scholar](https://scholar.google.com/citations?user=URP7bUsAAAAJ&hl=en) \\\x7C [Website](https://www.suvimalsindhu.com/)"
+
+- title: Qinuo Wang
+  subtitle: PhD student (2026 - )
+  group: current
+  image: images/people/QinuoWang.jpg
+  description: "[Email](mailto:qwang2@g.harvard.edu)"
+
+- title: Melody Xu
+  subtitle: Undergraduate (2025), Research Assistant (2026 - )
+  group: current
+  image: images/people/MelodyXu.jpeg
+  description: "[Email](mailto:zihanxu@g.harvard.edu)"
 
 - title: Tom Zeerow
   subtitle: Undergraduate
   group: current
   image: images/people/TomZeerow.jpg
   description: "[Email](mailto:tomzeerow@college.harvard.edu)"
-
-- title: Melody Xu
-  subtitle: Undergraduate (2025)
-  group: alumni
-  image: images/people/MelodyXu.jpeg
-  description: "[Email](mailto:zx2483@barnard.edu)"
 
 - title: Vivien Zhao
   subtitle: Master's student (2025-2026)
